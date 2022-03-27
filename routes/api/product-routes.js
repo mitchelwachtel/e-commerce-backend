@@ -44,6 +44,7 @@ router.post('/', async (req, res) => {
       product_name: "Basketball",
       price: 200.00,
       stock: 3,
+      category_id: 2                   <-- I added this (Wachtel)
       tagIds: [1, 2, 3, 4]
     }
   */
