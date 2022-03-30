@@ -31,11 +31,9 @@ Technologies used: MySQL, node.js, npm, Heroku for deploying, dependencies: 'seq
 
 ---
 ### Usage
-After installing dependencies, the schema should be created via MySQL shell. The database should be seeded using `npm run seed`. Then the server should be started using `npm start`.
+After installing dependencies, the schema should be created via MySQL shell using `source db/schema.sql;`. The database should be seeded using `npm run seed` after exited the mysql shell in the terminal. Then the server should be started using `npm start`.
 
-Visit the deployed app *[here](#####)*
-
-Watch *[this video](#####)* to see the how using this app works.
+Watch *[this video](https://youtu.be/MOGrwByliH0)* to see the how using this app works.
 
 ![Navigation](./assets/images/navigation.png)
 
