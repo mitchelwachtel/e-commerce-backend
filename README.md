@@ -8,7 +8,7 @@
 
 ### Description
 
-This app allows an e-commerce site to build its database of products, categories, and tags. Includes the routes to GET, POST, PUT, and DELETE so that the data can be accessed, modified, deleted, and created. In addition, the categories and products are linked as the products and tags. Because of these relationships, lots of relevant data can be retrieved, created, updated, and deleted from the database with very single queries.
+This app allows an e-commerce site to build and interact with its database of products, categories, and tags. Includes the routes for GET, POST, PUT, and DELETE so that the data can be accessed, modified, deleted, and created. In addition, the categories and products are linked as are the products and tags. Because of these relationships, lots of relevant data can be retrieved, created, updated, and deleted from the database with single queries.
 
 ---
 
