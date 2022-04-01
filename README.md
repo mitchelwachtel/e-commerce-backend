@@ -1,4 +1,4 @@
-# e-commerce-backend
+# e-Commerce Back End
 
 ## Mitchel Wachtel - mitchel.wachtel@gmail.com
 
